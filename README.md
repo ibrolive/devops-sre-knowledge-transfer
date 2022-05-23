@@ -11,7 +11,7 @@ As you may already know our tasks can be grouped into categories.
 We have decided to group these under the following categories at the moment:
 
 <details>
-  <summary>##DevSecOps</summary>
+  <summary><h3>DevSecOps</h3></summary>
   
 1	Onboarding to a JAVA CI pipeline that build a .war/.jar file and push it to Nexus	
 2	Onboarding to a JAVA CI pipeline that build a docker image and push it to Quay	
