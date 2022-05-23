@@ -13,9 +13,9 @@ We have decided to group these under the following categories at the moment:
 <details>
   <summary><h3>DevSecOps</h3></summary>
 
-  1	Onboarding to a JAVA CI pipeline that build a .war/.jar file and push it to Nexus	
-  2	Onboarding to a JAVA CI pipeline that build a docker image and push it to Quay	
-  3	DevSecOps> Onboarding to a JAVA Build Config in Openshift that build a docker image and push it to Quay
+  1.	Onboarding to a JAVA CI pipeline that build a .war/.jar file and push it to Nexus	
+  2.	Onboarding to a JAVA CI pipeline that build a docker image and push it to Quay	
+  3.	DevSecOps> Onboarding to a JAVA Build Config in Openshift that build a docker image and push it to Quay
   4	Onboarding to a NodeJS CI pipeline that build a .zip file and push it to Nexus	
   5	Onboarding to a NodeJS CI pipeline that build a docker image and push it to Quay	
   6	Onboarding to a Python CI pipeline that build a docker image and push it to Quay	
